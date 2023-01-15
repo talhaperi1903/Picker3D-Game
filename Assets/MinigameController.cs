@@ -39,7 +39,7 @@ public class MinigameController : MonoBehaviour
         {
            Rigidbody.constraints = RigidbodyConstraints.FreezePosition;
            particle.Stop(); 
-           Text.text = "300";
+           Text.text = "400";
 
         }
         
